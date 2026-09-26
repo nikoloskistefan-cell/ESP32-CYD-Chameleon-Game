@@ -5,7 +5,7 @@ A small hide-and-seek game for the ESP32 Cheap Yellow Display (CYD). Find the hi
 ## Links
 
 - 🎥 Video: [Chameleon Hunt on YouTube Shorts](https://youtube.com/shorts/v8_k61_C_bk)
-- 🛒 ESP32 CYD display used in this project: [Temu item link](https://temu.to/k/eca8k34yurh)
+- 🛒 ESP32 CYD display used in this project: [Temu item link](https://temu.to/k/ea65oy4oun8)
 
 The Temu link may be an affiliate link; it does not change the price for you.
 
