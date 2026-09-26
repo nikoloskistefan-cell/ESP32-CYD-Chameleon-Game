@@ -2,6 +2,13 @@
 
 A small hide-and-seek game for the ESP32 Cheap Yellow Display (CYD). Find the hidden chameleons in the illustrated room before time runs out.
 
+## Links
+
+- 🎥 Video: [Chameleon Hunt on YouTube Shorts](https://youtube.com/shorts/v8_k61_C_bk)
+- 🛒 ESP32 CYD display used in this project: [Temu item link](https://temu.to/k/eca8k34yurh)
+
+The Temu link may be an affiliate link; it does not change the price for you.
+
 ## Features
 
 - 320×240 color graphics on an ILI9341 TFT
